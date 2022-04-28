@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
+    "start": "npx ts-node ./src/index.ts",
     "test": "jest"
   },
   "author": "",
